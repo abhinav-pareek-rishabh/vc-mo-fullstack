@@ -1002,7 +1002,7 @@ info:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
 servers:
-  - url: https://api.viooh.com/fs/v1
+  - url: https://gateway-api.viooh.com/agl/api/fs/v1
     description: Production Server
 tags:
   - name: Header
