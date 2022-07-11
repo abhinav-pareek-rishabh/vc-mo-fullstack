@@ -1423,7 +1423,7 @@ paths:
           name: search
           schema:
             type: string
-            default: null
+            default: ""
           description: >
             Available search fields:
              * `name`  - It takes String value.
